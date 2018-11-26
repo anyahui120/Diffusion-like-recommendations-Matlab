@@ -1,5 +1,5 @@
 # Diffusion-like-recommendations
-This is a simple repo for diffusion-like recommendation algorithms. In this project, we realize the kernel functions of similarity in file ``./src/diffuseRec.m`` and the metrics precision@L, recall@L, hamming distance@L and novelty@L in ``./src/cnFun.m``; ranking score in ``rs.m``. The main script is in ``recScript.m``. To run the codes, you can directly run the ``recScript.m`` file.
+This is a simple repo for diffusion-like recommendation algorithms. In this project, you can find the kernel functions of similarities in file ``./src/diffuseRec.m`` and the metrics precision@L, recall@L, hamming distance@L and novelty@L in ``./src/cnFun.m``; ranking score in ``rs.m``. The main script is in ``recScript.m``. To run the codes, you can run the ``recScript.m`` file directly.
 
 # Datasets
 We use three real world datasets: MovieLens, Netflix and RYM for evaluation. You can find one ``train.txt`` and one ``test.txt`` in each dataset, containing 90% and 10% records (userID\t itemID\t rating\t timestamp (if have)). For more details, please refer to the listed papers. 
