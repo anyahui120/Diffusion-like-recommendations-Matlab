@@ -5,7 +5,7 @@ This is a simple repo for diffusion-like recommendation algorithms. In this proj
 # Datasets
 We use three real world datasets: MovieLens, Netflix and RYM for evaluation. You can find one ``train.txt`` and one ``test.txt`` in each dataset, containing 90% and 10% records (userID\t itemID\t rating\t timestamp (if have)). For more details, please refer to the listed papers. 
 
-# Please cite our papers if you use our codes. Thanks!:
+# Please cite our related papers if you feel our codes are useful. Thanks!:
 
 [1] Nie, D. C., An, Y. H., Dong, Q., Fu, Y., & Zhou, T. (2015). Information filtering via balanced diffusion on bipartite networks.    Physica A: statistical mechanics and its applications, 421, 44-53. (<a href="http://anyahui.cn/files/PhysicA2015InformationFilteringViaBalancedDiffusionOnBipartiteNetworks.pdf">Download</a>)
 
